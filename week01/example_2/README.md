@@ -1,9 +1,3 @@
-
----
-
-## `example_2/README.md`
-
-```markdown
 # Example 2 — Painting + Brush Size Control
 
 **File:** `2.py`  
@@ -24,6 +18,7 @@
 
 ## Run
 From the repository root:
+
 ![Result](./Result%202%20inpaint.png)
 
 ```bash

@@ -1,9 +1,3 @@
-
----
-
-## `example_3/README.md`
-
-```markdown
 # Example 3 — ROI Selection and Extraction
 
 **File:** `3.py`  
@@ -23,6 +17,7 @@
 
 ## Run
 From the repository root:
+
 ![Result](./Result%203%20image.png)
 
 ```bash

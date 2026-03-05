@@ -11,6 +11,7 @@
 
 ## Run
 From the repository root:
+
 ![Result](./Result%201%20image.png)
 
 ```bash
