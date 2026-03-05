@@ -24,7 +24,7 @@
 
 ## Run
 From the repository root:
-![Result](./Result 2 inpaint.png)
+![Result](./Result%202%20inpaint.png)
 
 ```bash
 python example_2/2.py
