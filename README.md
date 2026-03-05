@@ -110,8 +110,6 @@ computer-vision/
 
 ## Example: Weekly README Template
 
-아래 형식으로 각 주차별 `README.md`를 작성하면 정리가 쉽습니다.
-
 ````md
 # Week 01 - OpenCV Basics
 
