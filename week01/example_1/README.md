@@ -11,6 +11,7 @@
 
 ## Run
 From the repository root:
+![Result](./Result 1 image.png)
 
 ```bash
 python example_1/1.py

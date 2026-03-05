@@ -23,6 +23,7 @@
 
 ## Run
 From the repository root:
+![Result](./Result 3 image.png)
 
 ```bash
 python example_3/3.py
